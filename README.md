@@ -3,7 +3,7 @@ evasion of defender
 
 # needed 
 * psexec
-* invoke ubfuscation
+* invoke Obfuscation
 * hex 
 * ps1
 
