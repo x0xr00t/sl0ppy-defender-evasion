@@ -33,3 +33,8 @@ powershell $() $asciiString
 * `$asciiChars = $hexString -split ' ' |ForEach-Object {[char][byte]"0x$_"}`
 * `$asciiString = $asciiChars -join ''`
 * `powershell $() $asciiString`
+
+# Legal Disclaimer: 
+* I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
+
+* x0xr00t 
