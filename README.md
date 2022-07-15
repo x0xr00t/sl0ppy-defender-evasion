@@ -1,5 +1,6 @@
 # sl0ppy-evasion
-evasion of defender
+evasion of defender by x0r00t team sl0ppyr00t
+
 
 # needed 
 * `psexec`
