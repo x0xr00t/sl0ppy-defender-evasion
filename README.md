@@ -1,6 +1,9 @@
-# sl0ppy-evasion
-evasion of defender by x0r00t team sl0ppyr00t
+# sl0ppy-Defender-Evasion
+Evasion of defender by x0r00t team sl0ppyr00t
 
+# generated file to evade defender.
+* sl0ppy-evade-defender.pif
+ 
 
 # needed 
 * `psexec`
