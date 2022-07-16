@@ -5,7 +5,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * sl0ppy-evade-defender.pif
  
 # poc-gif
-![](https://github.com/x0xr00t/sl0ppy-defender-evasion/pocbypassdefender.png)
+![](https://github.com/x0xr00t/sl0ppy-defender-evasion/pocbypassdefender.gif)
 
 # needed 
 * `psexec`
