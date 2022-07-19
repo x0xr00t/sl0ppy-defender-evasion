@@ -1,5 +1,3 @@
-
-
 Set-MpPreference -DisableRealtimeMonitoring 0 
 sleep 2 
 # Get-ComputerInfo $() ... 47 65 74 2D 43 6F 6D 70 75 74 65 72 49 6E 66 6F 20 24 28 29 20
@@ -9,12 +7,3 @@ $asciiChars = $hexString -split ' ' |ForEach-Object {[char][byte]"0x$_"}
 $slsio = $asciiString = $asciiChars -join ''| powershell  $() 
 sleep 4  
 write-output $slsio
-
-#test block weaponization
-#sleep 4 
-#$hexString = "24 69 64 20 3D 20 5B 53 65 63 75 72 69 74 79 2E 50 72 69 6E 63 69 70 61 6C 2E 57 69 6E 64 6F 77 73 49 64 65 6E 74 69 74 79 5D 3A 3A 47 65 74 43 75 72 72 65 6E 74 28 29 0A 24 67 72 6F 75 70 73 20 3D 20 24 69 64 2E 47 72 6F 75 70 73 20 7C 20 66 6F 72 65 61 63 68 2D 6F 62 6A 65 63 74 20 7B 24 5F 2E 54 72 61 6E 73 6C 61 74 65 28 5B 53 65 63 75 72 69 74 79 2E 50 72 69 6E 63 69 70 61 6C 2E 4E 54 41 63 63 6F 75 6E 74 5D 29 7D 0A 24 67 72 6F 75 70 73 20 7C 20 73 65 6C 65 63 74 20 2A 20 7C 20 70 6F 77 65 72 73 68 65 6C 6C 20 24 28 29 0A" 
-#$asciiChars = $hexString -split ' ' |ForEach-Object {[char][byte]"0x$_"} 
-#$mg = $asciiString = $asciiChars -join ''| powershell  $() 
-#sleep 4  
-#write-output $mg
-
