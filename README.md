@@ -2,8 +2,7 @@
 Evasion of defender by x0r00t team sl0ppyr00t
 
 
-# poc-png
-![](https://github.com/x0xr00t/sl0ppy-defender-evasion/blob/main/pocbypassdefender.png)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/TLZHVozS3oE "sl0ppyr00t-sophisticated-defender-evasion{POC} vid")
 
 
 # needed 
