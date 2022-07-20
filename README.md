@@ -1,12 +1,7 @@
 # sl0ppy-Defender-Evasion
 Evasion of defender by x0r00t team sl0ppyr00t
 
-# vid example poc 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=TLZHVozS3oE" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+![](https://github.com/x0xr00t/sl0ppy-defender-evasion/blob/main/pocbypassdefender.gif)
 
 
 # needed 
