@@ -1,8 +1,9 @@
 # sl0ppy-Defender-Evasion
 Evasion of defender by x0r00t team sl0ppyr00t
 
-![](https://github.com/x0xr00t/sl0ppy-defender-evasion/blob/main/pocbypassdefender.gif)
 
+# gif poc
+![](https://github.com/x0xr00t/sl0ppy-defender-evasion/blob/main/pocbypassdefender.gif)
 
 # needed 
 * `psexec`
@@ -34,6 +35,10 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * `$slsio = $asciiString = $asciiChars -join ''| powershell  $() `
 * `sleep 4`
 * `write-output $slsio` 
+
+# Youtube vid poc 
+https://www.youtube.com/watch?v=TLZHVozS3oE
+
 
 # Legal Disclaimer: 
 * I am not responsible for U using it on non authorized systems, make sure u use it on systems u own or are authorized on. 
