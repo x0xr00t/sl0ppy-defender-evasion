@@ -8,7 +8,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 # needed 
 * `psexec`
 * `invoke Obfuscation`
-* `hex to ascii` 
+* `encrypt decrypt base64 ps` 
 * `ps1`
 * `rename file` 
 
