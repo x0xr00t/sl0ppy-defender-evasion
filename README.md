@@ -13,7 +13,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * `rename file` 
 
 # how to
-* `put 'whoami' in to ps1.`
+* `put 'get-computerinfo' in to ps1.`
 * `open obfuscator dir in ps and enter 'Import-Module ./Invoke-Obfuscation.psd1' & 'Invoke-Obfuscation'`
 * `compress\1 encoding\5 encoding\5 encoding\5`
 * `open 'psexec.exe or run the ps1' and gen .exe from ps1 file 'set scriptpath C:\whatever/whatever.ps1' and output 'C:\whatever\'` 
