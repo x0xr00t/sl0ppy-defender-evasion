@@ -17,7 +17,12 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * `open obfuscator dir in ps and enter 'Import-Module ./Invoke-Obfuscation.psd1' & 'Invoke-Obfuscation'`
 * `compress\1 encoding\5 encoding\5 encoding\5`
 * `open 'psexec.exe or run the ps1' and gen .exe from ps1 file 'set scriptpath C:\whatever/whatever.ps1' and output 'C:\whatever\'` 
-* `rename out put .exe to sum.pif 'rename-Item -Path "sum.exe" -NewName "sum.pif"'`
+*  copy output and add `| powershell $()`
+*  copy full sting and convert to b64`
+*  make file.ps1 with decrypt b64 add on the end `| powershell $()`
+*  replace string b64 with the output of your b64 obfuscated paylaod 
+*  convert ps1 to exe 
+* `rename .exe to sum.pif 'rename-Item -Path "sum.exe" -NewName "sum.pif"'`
 
 # generated file to evade defender.
 * ` {!} b.pif`
