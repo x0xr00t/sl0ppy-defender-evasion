@@ -20,7 +20,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 *  copy output and add `| powershell $()`
 *  copy full sting and convert to b64`
 *  make file.ps1 with decrypt b64 add on the end `| powershell $()`
-*  replace string b64 with the output of your b64 obfuscated paylaod 
+*  replace string b64 with the output of your b64 obfuscated payload 
 *  convert ps1 to exe 
 * `rename .exe to sum.pif 'rename-Item -Path "sum.exe" -NewName "sum.pif"'`
 
