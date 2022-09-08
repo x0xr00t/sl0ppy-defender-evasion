@@ -13,7 +13,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * `rename file` 
 
 # how to
-* `put 'get-computerinfo' or any other paylaod in b64 format to b.ps1.`
+* `put 'get-computerinfo' or any other paylaod in b64 format to ps1.`
 * `open obfuscator dir in ps and enter 'Import-Module ./Invoke-Obfuscation.psd1' & 'Invoke-Obfuscation'`
 * `set scriptpath`
 * `compress\1 encoding\5 encoding\5 encoding\5`
@@ -28,8 +28,6 @@ Evasion of defender by x0r00t team sl0ppyr00t
 # generated file to evade defender.
 * ` {!} b.pif`
 
-
-# example computerinfo.ps1
 
 
 # obfuscated ps code exec example
