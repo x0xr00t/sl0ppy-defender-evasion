@@ -13,15 +13,16 @@ Evasion of defender by x0r00t team sl0ppyr00t
 * `rename file` 
 
 # how to
-* `put 'get-computerinfo' in to ps1.`
+* `put 'get-computerinfo' or any other paylaod in b64 format to b.ps1.`
 * `open obfuscator dir in ps and enter 'Import-Module ./Invoke-Obfuscation.psd1' & 'Invoke-Obfuscation'`
+* `set scriptpath`
 * `compress\1 encoding\5 encoding\5 encoding\5`
-* `open 'psexec.exe or run the ps1' and gen .exe from ps1 file 'set scriptpath C:\whatever/whatever.ps1' and output 'C:\whatever\'` 
 *  copy output and add `| powershell $()`
 *  copy full sting and convert to b64`
 *  make file.ps1 with decrypt b64 add on the end `| powershell $()`
 *  replace string b64 with the output of your b64 obfuscated payload 
 *  convert ps1 to exe 
+* `open 'psexec.exe or run the ps1' and gen .exe from ps1 file 'set scriptpath C:\whatever/whatever.ps1' and output 'C:\whatever\'` 
 * `rename .exe to sum.pif 'rename-Item -Path "sum.exe" -NewName "sum.pif"'`
 
 # generated file to evade defender.
