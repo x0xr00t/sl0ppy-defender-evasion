@@ -7,7 +7,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 
 # needed 
 * `psexec`
-* `invoke Obfuscation`
+* `invoke Obfuscation` << (edit source to gen larger payload strings)
 * `encrypt decrypt base64 ps` 
 * `ps1`
 * `rename file` 
