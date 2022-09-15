@@ -28,7 +28,7 @@ Evasion of defender by x0r00t team sl0ppyr00t
 # Extra info 
 * `u can either use b64 in the beginning, or use it when the obfuscated code has been generated... `
 * `i tested both, and both methods would work`
-* `the b.pif that made has been generated with obfuscated ps code converted to b64 before spinning out the exe` 
+* `the b.pif that been made, has been generated with..>> obfuscated ps code converted to b64 before spinning out the exe` 
 
 # generated file to evade defender.
 * ` {!} b.pif`
